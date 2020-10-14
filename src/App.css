@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: darkblue;
+    text-shadow:3px 3px  darkgoldenrod;
+  }
+  
+  input[type=text]{
+    padding:1vw;
+    min-width: 80vw;
+    margin:2vw;
+  }
+  
+  .addButton{
+    padding: 1vw;
+    border-radius: 50px;
+    background-color: rgb(209, 231, 16);
+    font-size: 1em;
+    color: brown;
+    font-size:large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .todo{
+    border-bottom: 1px solid black;
+    background-image: linear-gradient(to right, #cfd7e1, #c3e2ed, #baeeea, #c5f6d8, #e8f9c0);
+    opacity: 0.9;
+    margin-left: 20vw;
+    max-width: 60vw;
+    padding: 0.5vw 2vw;
+    margin-bottom: 2vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .content{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    color:rgb(182, 21, 21);
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  .delButton{
+    margin-left: 5vw;
+    padding: 0.3vw 2vw;
+    border-radius: 20px;
+    background-color: crimson;
+    font-size: 1em;
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
